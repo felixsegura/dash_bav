@@ -5,3 +5,4 @@ plotly
 wordcloud
 scikit-learn
 nltk
+polars
