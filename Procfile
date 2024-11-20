@@ -1,1 +1,1 @@
-web: streamlit run app/dashborad.py --server.port $PORT --server.enableCORS false
+web: streamlit run app/dashboard.py --server.port $PORT --server.enableCORS false
