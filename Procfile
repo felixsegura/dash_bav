@@ -1,0 +1,1 @@
+web: streamlit run app/dashborad.py --server.port $PORT --server.enableCORS false
