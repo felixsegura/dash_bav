@@ -347,13 +347,13 @@ elif page == "Análisis de Sentimientos":
 
     grid_options = gb.build()
 
-# Mostrar la tabla interactiva
-AgGrid(
-    publication_sentiments,
-    gridOptions=grid_options,
-    enable_enterprise_modules=False,
-    theme="streamlit",  # Estilo visual
-    height=400,
-    fit_columns_on_grid_load=True
-)
+    # Mostrar la tabla interactiva
+    AgGrid(
+        publication_sentiments,
+        gridOptions=grid_options,
+        enable_enterprise_modules=False,
+        theme="streamlit",  # Estilo visual
+        height=400,
+        fit_columns_on_grid_load=True
+    )
 
