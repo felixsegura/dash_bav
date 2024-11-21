@@ -6,3 +6,7 @@ wordcloud
 scikit-learn
 nltk
 streamlit-aggrid
+numpy
+matplotlib
+Pillow
+
