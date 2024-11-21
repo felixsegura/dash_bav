@@ -9,4 +9,5 @@ streamlit-aggrid
 numpy
 matplotlib
 Pillow
+protobuf
 
